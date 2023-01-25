@@ -45,7 +45,7 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ![output](Screenshot%20from%202023-01-25%2021-40-18.png)
-![output](Screenshot%20from%202023-01-25%2021-40-32.png)]
+![output](Screenshot%20from%202023-01-25%2021-40-32.png)
 ![output](Screenshot%20from%202023-01-25%2021-40-40.png)
 
 ## Result
